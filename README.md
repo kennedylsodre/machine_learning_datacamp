@@ -15,7 +15,7 @@ Repositório destinado para anotações e teste de código das aulas do curso Su
 
  O parâmetro é utilizado para definir o número de vizinhos que serão avaliados para definir a classe do novo ponto de dados, quanto maior esse número, mais o modelo se torna complexo, podendo em alguns casos melhorar a performance, mas em outros levar ao overfiting. A imagem abaixo mede a acurácia em difentes números de vizinhos para um modelo de classificação treinado e testado no dataset Iris do scikit-learn. 
 
-(images\knn.png)
+(images/knn.png)
 
 - **Utilizar o Mean Squared Error Negativo na validação cruzada:**
 
